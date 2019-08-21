@@ -60,7 +60,7 @@ rightNavigationButtons:
 # Hero Block
 heroImage: "hero.jpg"
 heroTitle: " <typeout> 2019"
-eventDate: "November 04 2019"
+eventDate: "November 04, 2019"
 typeoutTextValues: '"", "Riverside Postdoctoral Association Symposium"'
 #typeoutFallback: "Season"
 heroButtons:
