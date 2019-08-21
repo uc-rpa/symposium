@@ -53,9 +53,9 @@ navigationLinks:
 # - {permalink: "/hackathon/", text: "Hackathon"}
 
 bottomNavigationLinks:
- - {link: "https://bit.ly/dfua-c4p", text: "Become a speaker"}
+ - {link: "hhttps://docs.google.com/forms/d/e/1FAIpQLSfOe5ACmnpw3ser3Nx0gstof-4_G7gwnhCwgG0CNB4ttNWYBw/viewform", text: "Become a speaker"}
 rightNavigationButtons:
- - {link: "https://bit.ly/dfua-c4p", text: "Become a speaker"}
+ - {link: "https://docs.google.com/forms/d/e/1FAIpQLSfOe5ACmnpw3ser3Nx0gstof-4_G7gwnhCwgG0CNB4ttNWYBw/viewform", text: "Become a speaker"}
 
 # Hero Block
 heroImage: "hero.jpg"
