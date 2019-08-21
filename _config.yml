@@ -10,34 +10,34 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 
 
 # Site Settings
-title: "GDG DevFest Season 2014"
-email: "devfest@gdg.org.ua"
+title: "Riverside Postdoctoral Association Symposium 2019"
+email: "postdoc@ucr.edu"
 description: "GDG DevFest is a set of events all around the world"
 baseurl: "/zeppelin"
-url: "https://gdg-x.github.io"
+url: "https://rpa.ucr.edu/symposium2019"
 permalink: "/blog/:title"
-googleAnalyticsTrackingId: "UA-43643469-5"
-googleAnalyticsSiteUrl: "gdg-x.github.io"
-siteVerification: "b9imDOrFawXaBXCC4r3uJDdswSYcalD-wWpMYhFq-no"
+googleAnalyticsTrackingId: "UA-141608372-2"
+googleAnalyticsSiteUrl: "https://rpa.ucr.edu/"
+#siteVerification: "b9imDOrFawXaBXCC4r3uJDdswSYcalD-wWpMYhFq-no"
 
 # Organizer Info
-organizerName: "GDG Lviv"
-organizerAlternateName: "Google Developer Group Lviv"
-organizerDescription: "Open and volunteer geek communities who create exciting projects and share experience about Google technology with passion."
-organizerEmail: "lviv@gdg.org.ua"
-organizerLogo: "/img/seo/organizer-logo.png"
-organizerLink: "http://lviv.gdg.org.ua/"
+organizerName: "RPA"
+organizerAlternateName: "Riverside Postdoctoral Association"
+organizerDescription: "Riverside Postdoctoral Association"
+organizerEmail: "postdoc@ucr.edu"
+organizerLogo: "/img/seo/RPA.png"
+organizerLink: "https://rpa.ucr.edu/"
 
 # Head
-metaKeywords: "event, gdg, devfest, google, programming, android, chrome, developers, lviv"
+metaKeywords: "event, postdoc, RPA, UCR, California"
 twitterAccount: "@DevFest"
-socialImageSrcGooglePlus: "/img/seo/sharing-google-plus.png"
-socialImageSrcTwitter: "/img/seo/sharing-twitter.png"
-socialImageSrcFacebook: "/img/seo/sharing-facebook.png"
+socialImageSrcGooglePlus: "/img/seo/RPA1.png"
+socialImageSrcTwitter: "/img/seo/RPA1.png"
+socialImageSrcFacebook: "/img/seo/RPA1.png"
 
 # Documents
-c4pUrl: "https://bit.ly/dfua-c4p"
-c4sponsorsUrl: "/assets/GDG_DevFest_Partnership.pdf"
+#c4pUrl: "https://bit.ly/dfua-c4p"
+#c4sponsorsUrl: "/assets/GDG_DevFest_Partnership.pdf"
 
 
 # Navigation
@@ -56,28 +56,28 @@ rightNavigationButtons:
 
 # Hero Block
 heroImage: "hero.jpg"
-heroTitle: "GDG DevFest <typeout> 2014"
-eventDate: "September - November, 2014"
-typeoutTextValues: '"", "Season", "Ukraine", "Germany", "USA"'
-typeoutFallback: "Season"
+heroTitle: " <typeout> 2019"
+eventDate: "November 04 2019"
+typeoutTextValues: '"", "Riverside Postdoctoral Association Symposium"'
+#typeoutFallback: "Season"
 heroButtons:
- - {link: "https://bit.ly/dfua-c4p", text: "Become a speaker"}
- - {permalink: "/#tickets", text: "Buy tickets"}
+ - {link: "https://docs.google.com/forms/d/e/1FAIpQLSfOe5ACmnpw3ser3Nx0gstof-4_G7gwnhCwgG0CNB4ttNWYBw/viewform", text: "Call for Abstract"}
+ - {link: "https://rpa.ucr.edu/symposium/", text: "Register - Comming soon"}
 
 # About Block
-aboutTitle: "About GDG DevFest"
+aboutTitle: "About RPA"
 aboutBlock:
  - {title: "Conference", image: "conference.jpg", text: "The biggest Google related event in the country carefully crafted for you by GDG community! Awesome speakers and lots of fun!" }
  - {title: "Workshops", image: "workshop.jpg", text: "Full-day of workshops, hands-on experience, hacking and debugging. Come and tame your favourite technology!" }
  - {title: "Hackathon", image: "hackathon.jpg", text: "Full-day freestyle hackathon! Want some real team building on friday? Grab your team and join our hackathon!" }
 
 # Statistic Block
-statisticBlockImage: "statistic.jpg"
-statisticBlock:
- - {count: "350", specialCharacter: "+", info: "attendees", detail: "from everywhere"}
- - {count: "48", specialCharacter: "+", info: "hours", detail: "of pure Google technologies"}
- - {count: "20", specialCharacter: "+", info: "speakers", detail: "from country and beyond"}
- - {count: "3", specialCharacter: "", info: "parallel tracks", detail: "plus entertainment lounge"}
+#statisticBlockImage: "statistic.jpg"
+#statisticBlock:
+# - {count: "350", specialCharacter: "+", info: "attendees", detail: "from everywhere"}
+#- {count: "48", specialCharacter: "+", info: "hours", detail: "of pure Google technologies"}
+# - {count: "20", specialCharacter: "+", info: "speakers", detail: "from country and beyond"}
+# - {count: "3", specialCharacter: "", info: "parallel tracks", detail: "plus entertainment lounge"}
 
 # Latest News Block
 latestNewsTitle: "Latest news"
