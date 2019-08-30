@@ -59,10 +59,10 @@ rightNavigationButtons:
 
 # Hero Block
 heroImage: "hero.jpg"
-heroTitle: " <typeout> 2019"
+heroTitle: "RPA <typeout> 2019"
 eventDate: "November 04, 2019"
 location: "HUB 302 North"
-typeoutTextValues: '"", "Riverside Postdoctoral Association Symposium"'
+typeoutTextValues: '"", "Postdoc Symposium"'
 #typeoutFallback: "Season"
 heroButtons:
  - {link: "https://docs.google.com/forms/d/e/1FAIpQLSfOe5ACmnpw3ser3Nx0gstof-4_G7gwnhCwgG0CNB4ttNWYBw/viewform", text: "Call for Abstract"}
@@ -79,7 +79,7 @@ aboutBlock:
 # Statistic Block
 statisticBlockImage: "statistic.jpg"
 statisticBlock:
- - {count: "230", specialCharacter: "+", info: "Postdocs", detail: "from UCR"}
+ - {count: "220", specialCharacter: "+", info: "Postdocs", detail: "from UCR"}
  - {count: "12", specialCharacter: "+", info: "Speakers", detail: "from different departments"}
  - {count: "9", specialCharacter: "+", info: "Hours", detail: "of pure Science"}
  - {count: "4", specialCharacter: "", info: "Career Development Talk", detail: "plus in your career"}
