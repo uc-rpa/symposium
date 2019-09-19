@@ -61,7 +61,7 @@ rightNavigationButtons:
 heroImage: "hero.png"
 heroTitle: "RPA <typeout> 2019"
 eventDate: "November 04, 2019"
-location: "HUB 302 North"
+location: "HUB 302 South"
 typeoutTextValues: '"", "Postdoc Symposium"'
 #typeoutFallback: "Season"
 heroButtons:
