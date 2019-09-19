@@ -15,7 +15,7 @@ email: "postdoc@ucr.edu"
 description: "Riverside Postdoctoral Association Symposium 2019"
 #baseurl: "/"
 url: "https://rpa.ucr.edu/symposium2019"
-permalink: "/blog/:title"
+permalink: "/news/:title"
 googleAnalyticsTrackingId: "UA-141608372-2"
 googleAnalyticsSiteUrl: "https://rpa.ucr.edu/"
 googleMapApiKey: "AIzaSyA8JDpOOaQskxp8ZoAC_tne05c6WQzCgxc"
@@ -43,7 +43,7 @@ c4sponsorsUrl: "https://forms.gle/q8VeFcnrVskmjd9j7"
 # Navigation
 navigationLinks:
  - {permalink: "/", text: "Home"}
-# - {permalink: "/blog/", text: "Blog"}
+ - {permalink: "/news/", text: "News"}
 # - {permalink: "/schedule/", text: "Schedule"}
  - {permalink: "https://rpa.ucr.edu/symposium/", text: "Schedule"}
 # - {permalink: "/speakers/", text: "Speakers"}
@@ -58,7 +58,7 @@ rightNavigationButtons:
  - {link: "https://docs.google.com/forms/d/e/1FAIpQLSfOe5ACmnpw3ser3Nx0gstof-4_G7gwnhCwgG0CNB4ttNWYBw/viewform", text: "Become a speaker"}
 
 # Hero Block
-heroImage: "hero.jpg"
+heroImage: "hero.png"
 heroTitle: "RPA <typeout> 2019"
 eventDate: "November 04, 2019"
 location: "HUB 302 North"
@@ -201,7 +201,7 @@ footerBlocks:
 # Blog
 blogTitle: "Latest news"
 blogCommentsEnabled: true
-discusShortName: "devfestua"
+discusShortName: "RPA"
 
 # Speakers List Block
 showSessions: true
