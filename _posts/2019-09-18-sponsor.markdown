@@ -27,7 +27,7 @@ image: statistic.jpg
 
 ## Fill out the 2019 Sponsorship Form
 
-[Sponsorship Form](https://docs.google.com/forms/d/e/1FAIpQLSdewZEylGYR8Kb7WZwTgmYsbUe3aMBjI8ahzdVwoecXUgXxkg/viewform)
+[Sponsorship Form](https://forms.gle/TwYefXLzcqMbXqvP9)
 
 Please, contact us if you have any question at postdoc@ucr.edu
 
