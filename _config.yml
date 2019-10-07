@@ -66,7 +66,7 @@ typeoutTextValues: '"", "Postdoc Symposium"'
 #typeoutFallback: "Season"
 heroButtons:
  - {link: "https://docs.google.com/forms/d/e/1FAIpQLSfOe5ACmnpw3ser3Nx0gstof-4_G7gwnhCwgG0CNB4ttNWYBw/viewform", text: "Call for Abstract"}
- - {link: "https://rpa.ucr.edu/symposium/", text: "Register - Comming soon"}
+ - {link: "https://forms.gle/F9C7xGhVoySp4tz16", text: "Register"}
 
 # About Block
 aboutTitle: "Postdoc Symposium 2019"
