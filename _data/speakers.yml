@@ -8,7 +8,7 @@
   thumbnailUrl: Torres_Rodolfo.jpg
   rockstar: true
   social: 
-    - {name: "RED", link: "https://research.ucr.edu/"}
+    - {name: "site", link: "https://research.ucr.edu/"}
 - 
   id: 1
   name: "Dr. Julia"
@@ -19,7 +19,7 @@
   thumbnailUrl: Julia-Bailey-Serres.jpg
   rockstar: true
   social: 
-    - {name: "Lab Website", link: "https://www.baileyserreslab.org/"}
+    - {name: "site", link: "https://www.baileyserreslab.org/"}
 - 
   id: 3
   name: "Dr. Hollis"
@@ -30,7 +30,7 @@
   thumbnailUrl: S.-Hollis-Woodard.jpg
   rockstar: true
   social: 
-    - {name: "Lab Website", link: "http://www.woodardlab.com/"}
+    - {name: "site", link: "http://www.woodardlab.com/"}
 - 
   id: 5
   name: "Dr. David C."
@@ -41,10 +41,10 @@
   thumbnailUrl: David-Pearson.jpg
   rockstar: true
   social: 
-    - {name: "Website", link: "https://www.ucreduotp.net/"}
+    - {name: "site", link: "https://www.ucreduotp.net/"}
 - 
   id: 4
-  name: "Seana"
+  name: "M.S. Seana"
   surname: "Nuñez-Grider"
   company: "Human Resources Department"
 #  title: "Assistant Professor of Entomology"
