@@ -1,11 +1,22 @@
 - 
-  group: "From UCR"
+  group: "Diamond"
   elements: 
-    - {name: "Graduate Division", description: "Graduate Division", link: "https://graduate.ucr.edu/", imageUrl: "grad.png"}
-    - {name: "Molecular, Cell and Systems Biology", description: "Molecular, Cell and Systems Biology", link: "https://cbns.ucr.edu/", imageUrl: "MCSB.jpeg", width: "120px"}
+    - {name: "Immigration Attorney Hadley Bajramovic", description: "Immigration Attorney Hadley Bajramovic", link: "https://immigrationhadley.com/", imageUrl: "hadley.png", width: "320px"}
+    - {name: "UCR Department of Botany and Plant Science", description: "UCR Department of Botany and Plant Science", link: "https://plantbiology.ucr.edu/", imageUrl: "botany.png", width: "320px"}
+    - {name: "Center for Invasive Species Research", description: "Center for Invasive Species Research", link: "https://cisr.ucr.edu/", imageUrl: "cisr.jpg", width: "320px"}
 - 
-  group: "General sponsor"
+  group: "Gold"
   elements: 
-
-
+    - {name: "Molecular, Cell and Systems Biology", description: "Molecular, Cell and Systems Biology", link: "https://cbns.ucr.edu/", imageUrl: "MCSB.jpeg", width: "320px"}
+    - {name: "New England Biolabs", description: "New England Biolabs", link: "https://www.neb.com/", imageUrl: "newbio.png", width: "320px"}
+    - {name: "Office of Technology Partnerships", description: "Office of Technology Partnerships", link: "https://www.ucreduotp.net/", imageUrl: "otp.png", width: "320px"}
+    - {name: "Illumina", description: "Illumina", link: "https://www.illumina.com/", imageUrl: "illumina.png", width: "320px"}
+- 
+  group: "Silver"
+  elements: 
+    - {name: "UCR Department of Environmental Science", description: "UCR Department of Environmental Science", link: "https://envisci.ucr.edu/", imageUrl: "Logo_Environmental Sciences _2.png"}
+    - {name: "UCR Microbiology and Plant Pathology", description: "UCR Microbiology and Plant Pathology", link: "https://plantpath.ucr.edu/", imageUrl: "micro.png", width: "320px"}
+    - {name: "UCR Department of Psychology", description: "UCR Department of Psychology", link: "https://psychology.ucr.edu/", imageUrl: "UCR-Psychology-logo.png", width: "120px"}
+    - {name: "BioTeck", description: "BioTeck", link: "hhttps://www.biotek.com/", imageUrl: "biotek.png", width: "120px"}
+    - {name: "UCR School of Public Policy", description: "UCR School of Public Policy", link: "https://spp.ucr.edu/", imageUrl: "SPP-wordmark.jpg", width: "120px"}
 

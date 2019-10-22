@@ -1,60 +1,84 @@
 - 
-  id: 0
-  name: "Vitaliy"
-  surname: "Zasadnyy"
-  title: "Sponsors and Speakers Manager"
-  thumbnailUrl: VitaliyZasadnyy.jpg
-  team: true
-  ribbon: 
-    - {abbr: "GDG", title: "Google Developer Group"}
-  social: 
-    - {name: "google-plus", link: "https://google.com/+VitalikZasadnyy"}
-    - {name: "twitter", link: "https://twitter.com/zasadnyy"}
-    - {name: "github", link: "https://github.com/zasadnyy"}
-    - {name: "site", link: "http://zasadnyy.com/"}
-- 
   id: 1
-  name: "Oleh"
-  surname: "Zasadnyy"
-  title: "Designer and Web Developer"
-  thumbnailUrl: OlehZasadnyy.jpg
+  name: "Anja"
+  surname: "Pahor"
+  title: "President"
+  thumbnailUrl: anjapahor.jpg
   team: true
-  ribbon: 
-    - {abbr: "GDG", title: "Google Developer Group"}
   social: 
-    - {name: "google-plus", link: "https://google.com/+OlehZasadnyy"}
-    - {name: "github", link: "https://github.com/ozasadnyy"}
+    - {name: "site", link: "https://orcid.org/0000-0002-9396-4620"}
 - 
   id: 2
-  name: "Ostap"
-  surname: "Andrusiv"
-  title: "Sponsors and Speakers Manager"
-  thumbnailUrl: OstapAndrusiv.jpg
+  name: "Daniela"
+  surname: "Cassol"
+  title: "Vice President"
+  thumbnailUrl: daniela_cassol.jpg
   team: true
-  ribbon: 
-    - {abbr: "GDG", title: "Google Developer Group"}
   social: 
-    - {name: "google-plus", link: "https://google.com/+OstapAndrusiv"}
-    - {name: "twitter", link: "https://twitter.com/p1f"}
-    - {name: "site", link: "http://andrusiv.com/"}
+    - {name: "twitter", link: "https://twitter.com/danicassol"}
+    - {name: "github", link: "https://github.com/dcassol"}
 - 
-  id: 4
-  name: "Dmytro"
-  surname: "Danylyk"
-  title: "Android Program Committee"
-  thumbnailUrl: DmytroDanylyk.jpg
-  subTeam: true
+  id: 33
+  name: "Patricio"
+  surname: "Perez"
+  title: "Secretary"
+  thumbnailUrl: patricio_perez.jpg
+  team: true
   social: 
-    - {name: "google-plus", link: "https://plus.google.com/+DmytroDanylyk"}
-    - {name: "twitter", link: "https://twitter.com/dmytrodanylyk"}
-    - {name: "github", link: "https://github.com/dmytrodanylyk"}
+    - {name: "site", link: "https://twitter.com/UCRPostdoc"}
 - 
-  id: 7
-  name: "Valentyn"
-  surname: "Shybanov"
-  title: "Web and Cloud Program Committee"
-  thumbnailUrl: ValentynShybanov.jpg
-  subTeam: true
+  id: 44
+  name: "Sharma"
+  surname: "Yamijala"
+  title: "Treasurer"
+  thumbnailUrl: sharma_yamijala.jpg
+  team: true
   social: 
-    - {name: "google-plus", link: "https://google.com/+ValentynShybanov"}
-    - {name: "site", link: "http://olostan.name/"}
+    - {name: "linkedin", link: "https://www.linkedin.com/in/sharmayamijala/"}
+    - {name: "scholar", link: "https://scholar.google.com/citations?user=IglNkREAAAAJ&hl=en/"}
+- 
+  id: 66
+  name: "Marta Ruiz"
+  surname: "Valdés"
+  title: "Communications Director"
+  thumbnailUrl: marta_valdes.jpg
+  team: true
+  social: 
+    - {name: "site", link: "https://twitter.com/UCRPostdoc"}   
+- 
+  id: 10
+  name: "Morgan"
+  surname: "Halane"
+  title: "Social Chair and Public Engagement Representative"
+  thumbnailUrl: morgan_halane.jpg
+  team: true
+  social: 
+    - {name: "site", link: "https://twitter.com/UCRPostdoc"}   
+-    
+  id: 8
+  name: "Marta"
+  surname: "Pudzianowska"
+  title: "Graphic Design Representative"
+  thumbnailUrl: marta_pudzianowska.jpg
+  team: true
+  social: 
+    - {name: "site", link: "https://twitter.com/UCRPostdoc"}
+- 
+  id: 55
+  name: "Francesc"
+  surname: "Marco"
+  title: "Symposium Director"
+  thumbnailUrl: francesc_marco.jpg
+  team: true
+  social: 
+    - {name: "site", link: "https://twitter.com/UCRPostdoc"} 
+- 
+  id: 9
+  name: "Salini"
+  surname: "Sasidharan"
+  title: "Symposium Advisor"
+  thumbnailUrl: salini_sasidharan.jpg
+  team: true
+  social: 
+    - {name: "site", link: "https://twitter.com/UCRPostdoc"}
+

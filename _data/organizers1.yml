@@ -1,0 +1,5 @@
+- 
+  group: 
+  elements: 
+    - {name: "Graduate Division", description: "Graduate Division", link: "https://graduate.ucr.edu/", imageUrl: "grad.png", width: "620px"}
+
