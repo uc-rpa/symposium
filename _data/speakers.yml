@@ -1,34 +1,75 @@
 - 
-  id: 3
-  name: "FirstName"
-  surname: "LastName"
-  company: "Department"
-  title: "Title"
-  bio: "bio"
-  thumbnailUrl: RPA.png
+  id: 2
+  name: "Dr. Rodolfo H."
+  surname: "Torres"
+  company: " Vice Chancellor for Research and Economic Development"
+#  title: " Vice Chancellor for Research and Economic Development"
+#  bio: "bio"
+  thumbnailUrl: Torres_Rodolfo.jpg
   rockstar: true
   social: 
-    - {name: "twitter", link: "https://twitter.com/UCRPostdoc"}
+    - {name: "RED", link: "https://research.ucr.edu/"}
 - 
-  id: 4
-  name: "FirstName"
-  surname: "LastName"
-  company: "Department"
-  title: "Title"
-  bio: "bio"
-  thumbnailUrl: RPA.png
+  id: 1
+  name: "Dr. Julia"
+  surname: "Bailey-Serres"
+  company: "Botany and Plant Sciences Department"
+  title: "Director, Center for Plant Cell Biology / Distinguished Professor of Genetics"
+#  bio: "bio"
+  thumbnailUrl: Julia-Bailey-Serres.jpg
   rockstar: true
   social: 
-    - {name: "twitter", link: "https://twitter.com/UCRPostdoc"}
+    - {name: "Lab Website", link: "https://www.baileyserreslab.org/"}
+- 
+  id: 3
+  name: "Dr. Hollis"
+  surname: "Woodard"
+  company: "Entomology Department"
+  title: "Assistant Professor of Entomology"
+#  bio: "bio"
+  thumbnailUrl: S.-Hollis-Woodard.jpg
+  rockstar: true
+  social: 
+    - {name: "Lab Website", link: "http://www.woodardlab.com/"}
 - 
   id: 5
-  name: "FirstName"
-  surname: "LastName"
-  company: "Department"
-  title: "Title"
-  bio: "bio"
-  thumbnailUrl: RPA.png
+  name: "Dr. David C."
+  surname: "Pearson"
+  company: "Office of Technology Partnerships"
+#  title: "Entrepreneurial and Intellectual Property Services at UCR"
+#  bio: "bio"
+  thumbnailUrl: David-Pearson.jpg
   rockstar: true
   social: 
-    - {name: "twitter", link: "https://twitter.com/UCRPostdoc"}
-
+    - {name: "Website", link: "https://www.ucreduotp.net/"}
+- 
+  id: 4
+  name: "Seana"
+  surname: "Nuñez-Grider"
+  company: "Human Resources Department"
+#  title: "Assistant Professor of Entomology"
+#  bio: "bio"
+  thumbnailUrl: Seana-Nunez-Grider.jpg
+  rockstar: true
+- 
+  id: 6
+  name: "Dr. Andrea"
+  surname: "Smith"
+  company: "Ethnic Studies"
+  title: "Associate Professor"
+#  bio: "bio"
+  thumbnailUrl: Andrea-Smith.png
+  rockstar: true
+#  social: 
+#    - {name: "Website", link: "https://www.ucreduotp.net/"}
+- 
+  id: 7
+  name: "Dr. Evelyn"
+  surname: "Morales Vazquez"
+  company: "Graduate School of Education"
+#  title: "Associate Professor"
+#  bio: "bio"
+  thumbnailUrl: Evelyn-Morales-Vazquez.jpg
+  rockstar: true
+#  social: 
+#    - {name: "Website", link: "https://www.ucreduotp.net/"}

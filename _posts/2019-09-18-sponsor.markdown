@@ -3,7 +3,7 @@ layout: post
 title:  "Would you like to sponsor the UCR Postdoc Symposium 2019?"
 date:   2019-09-18 09:00:00
 isStaticPost: false
-image: statistic.jpg
+image: blue.png
 ---
 ## Would you like to **Sponsor** the UCR Postdoc Symposium 2019? 
 
