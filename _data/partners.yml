@@ -17,6 +17,7 @@
     - {name: "UCR Department of Environmental Science", description: "UCR Department of Environmental Science", link: "https://envisci.ucr.edu/", imageUrl: "Logo_Environmental Sciences _2.png"}
     - {name: "UCR Microbiology and Plant Pathology", description: "UCR Microbiology and Plant Pathology", link: "https://plantpath.ucr.edu/", imageUrl: "micro.png", width: "320px"}
     - {name: "UCR Department of Psychology", description: "UCR Department of Psychology", link: "https://psychology.ucr.edu/", imageUrl: "UCR-Psychology-logo.png", width: "120px"}
-    - {name: "BioTeck", description: "BioTeck", link: "hhttps://www.biotek.com/", imageUrl: "biotek.png", width: "120px"}
+    - {name: "AWIS", description: "Association For Women in Science", link: "https://awisucr.wixsite.com/awisucr", imageUrl: "AWIS.png", width: "120px"}
+    - {name: "BioTeck", description: "BioTeck", link: "hhttps://www.biotek.com/", imageUrl: "biotek.png", width: "120px"}    
     - {name: "UCR School of Public Policy", description: "UCR School of Public Policy", link: "https://spp.ucr.edu/", imageUrl: "SPP-wordmark.jpg", width: "120px"}
 
