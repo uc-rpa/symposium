@@ -73,3 +73,101 @@
   rockstar: true
 #  social: 
 #    - {name: "Website", link: "https://www.ucreduotp.net/"}
+- 
+  id: 8
+  name: "Dr. Nina"
+  surname: "Yuan"
+  company: "Medicine"
+  bio: "Can Asthma Medication Protect Your Brain From NeuroAIDS?"
+  thumbnailUrl: Nina.png
+  rockstar: false
+- 
+  id: 9
+  name: "Dr. Theodor"
+  surname: "Bughici"
+  company: "Environmental Sciences"
+  bio: "Optimization of Irrigation Management of Row Crops by the Use of Numerical Weather Forecasting"
+  thumbnailUrl: Theodor.png
+  rockstar: false
+- 
+  id: 10
+  name: "Dr. Arghavan"
+  surname: "Alisoltani"
+  company: "Medicine"
+  bio: "Tobacco smoking-induced changes in the population of immune cells across ten TCGA Cancer Types"
+  thumbnailUrl: Arghavan.png
+  rockstar: false
+- 
+  id: 11
+  name: "Dr. Kaycee"
+  surname: "Morra"
+  company: "Earth Sciences"
+  bio: "Decadal- and millenial-scale foraging habits of three Hawaiian seabirds: insights from stable isotope analyses"
+  thumbnailUrl: Kaycee.png
+  rockstar: false
+- 
+  id: 12
+  name: "Dr. Kiranmayi"
+  surname: "Mangalgiri"
+  company: "Chemical and Environmental Engineering"
+  bio: "New insight into UV-based treatment for water reuse: Impact of chloramines and trace contaminant removal"
+  thumbnailUrl: Kiranmayi.jpg
+  rockstar: false
+- 
+  id: 13
+  name: "Dr. Daniel"
+  surname: "Pers"
+  company: "Entomology"
+  bio: "Epigenetic regulation of an integrated animal-microbe metabolism throughout aphid development"
+  thumbnailUrl: Daniel.png
+  rockstar: false
+- 
+  id: 14
+  name: "Dr. Adam"
+  surname: "Schreiner-McGraw"
+  company: "Environmental Sciences"
+  bio: "Woody Plant Encroachment will have a Larger Impact than Climate Change on Dryland Water Budgets"
+  thumbnailUrl: Adam.jpg
+  rockstar: false
+- 
+  id: 15
+  name: "Dr. Maithili"
+  surname: "Ramachandran"
+  company: "Public Policy"
+  bio: "The Impact of Extreme Temperatures on Newborn Health in California"
+  thumbnailUrl: Maithili.png
+  rockstar: false
+- 
+  id: 16
+  name: "Dr. Huanhuan"
+  surname: "Jiang"
+  company: "Chemical and Environmental Engineering"
+  bio: "Still Vaping E-cigarettes? Quit now!"
+  thumbnailUrl: Huanhuan.png
+  rockstar: false
+- 
+  id: 17
+  name: "Dr. Ting"
+  surname: "Yang"
+  company: "Environmental Sciences"
+  bio: "Optimizing Water Management Practices to Minimize Soil Salinity and Nitrate Leaching in California Irrigated Croplands"
+  thumbnailUrl: Ting.png
+  rockstar: false
+- 
+  id: 18
+  name: "Dr. Monique"
+  surname: "Williams"
+  company: "Molecular, Cell, and Systems Biology"
+  bio: "Effects of Model, Method of Collection, and Topography on Chemical Elements and Metals in the Aerosol of Tank-Style
+Electronic Cigarettes"
+  thumbnailUrl: Monique.png
+  rockstar: false
+- 
+  id: 19
+  name: "Dr. Yingnan"
+  surname: "Hou"
+  company: "Microbiology and Plant Pathology"
+  bio: "Impossible Mission: Plant small RNAs Induce Trans-species RNAi in Oomycete Pathogens"
+  thumbnailUrl: Yingnan.png
+  rockstar: false
+
