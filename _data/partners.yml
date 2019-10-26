@@ -4,6 +4,7 @@
     - {name: "Immigration Attorney Hadley Bajramovic", description: "Immigration Attorney Hadley Bajramovic", link: "https://immigrationhadley.com/", imageUrl: "hadley.png", width: "320px"}
     - {name: "UCR Department of Botany and Plant Science", description: "UCR Department of Botany and Plant Science", link: "https://plantbiology.ucr.edu/", imageUrl: "botany.png", width: "320px"}
     - {name: "Center for Invasive Species Research", description: "Center for Invasive Species Research", link: "https://cisr.ucr.edu/", imageUrl: "cisr.jpg", width: "320px"}
+    - {name: "CAFÉ UCR", description: "CAFÉ UCR", link: "https://cafe.ucr.edu/", imageUrl: "cafe.png", width: "320px"}
 - 
   group: "Gold"
   elements: 

@@ -79,7 +79,7 @@
   surname: "Yuan"
   company: "Medicine"
   bio: "Can Asthma Medication Protect Your Brain From NeuroAIDS?"
-  thumbnailUrl: Nina.png
+  thumbnailUrl: NinaYuan.jpg
   rockstar: false
 - 
   id: 9
@@ -87,7 +87,7 @@
   surname: "Bughici"
   company: "Environmental Sciences"
   bio: "Optimization of Irrigation Management of Row Crops by the Use of Numerical Weather Forecasting"
-  thumbnailUrl: Theodor.png
+  thumbnailUrl: TheodorBughici.jpg
   rockstar: false
 - 
   id: 10
@@ -103,7 +103,7 @@
   surname: "Morra"
   company: "Earth Sciences"
   bio: "Decadal- and millenial-scale foraging habits of three Hawaiian seabirds: insights from stable isotope analyses"
-  thumbnailUrl: Kaycee.png
+  thumbnailUrl: Kaycee.jpeg
   rockstar: false
 - 
   id: 12
@@ -143,7 +143,7 @@
   surname: "Jiang"
   company: "Chemical and Environmental Engineering"
   bio: "Still Vaping E-cigarettes? Quit now!"
-  thumbnailUrl: Huanhuan.png
+  thumbnailUrl: Huanhuan.jpeg
   rockstar: false
 - 
   id: 17
@@ -160,7 +160,7 @@
   company: "Molecular, Cell, and Systems Biology"
   bio: "Effects of Model, Method of Collection, and Topography on Chemical Elements and Metals in the Aerosol of Tank-Style
 Electronic Cigarettes"
-  thumbnailUrl: Monique.png
+  thumbnailUrl: Monique.jpg
   rockstar: false
 - 
   id: 19
@@ -168,6 +168,6 @@ Electronic Cigarettes"
   surname: "Hou"
   company: "Microbiology and Plant Pathology"
   bio: "Impossible Mission: Plant small RNAs Induce Trans-species RNAi in Oomycete Pathogens"
-  thumbnailUrl: Yingnan.png
+  thumbnailUrl: YingnanHou.jpg
   rockstar: false
 
