@@ -95,7 +95,7 @@
   surname: "Alisoltani"
   company: "Medicine"
   bio: "Tobacco smoking-induced changes in the population of immune cells across ten TCGA Cancer Types"
-  thumbnailUrl: Arghavan.png
+  thumbnailUrl: Arghavan_Alisoltani.jpg
   rockstar: false
 - 
   id: 11
@@ -135,7 +135,7 @@
   surname: "Ramachandran"
   company: "Public Policy"
   bio: "The Impact of Extreme Temperatures on Newborn Health in California"
-  thumbnailUrl: Maithili.png
+  thumbnailUrl: maithili_ramachandran.jpg
   rockstar: false
 - 
   id: 16
@@ -151,7 +151,7 @@
   surname: "Yang"
   company: "Environmental Sciences"
   bio: "Optimizing Water Management Practices to Minimize Soil Salinity and Nitrate Leaching in California Irrigated Croplands"
-  thumbnailUrl: Ting.png
+  thumbnailUrl: Ting_Yang.jpeg
   rockstar: false
 - 
   id: 18
