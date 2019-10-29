@@ -7,7 +7,7 @@
   id: 002
   title: "Opening Remarks"
   place: "HUB 302 South"
-  description: ""
+#  description: ""
   speakers: [2]
 -
   id: 003
@@ -52,7 +52,7 @@
   description: "The best time to talk with speakers and attendees"
 -
   id: 010
-  title: " How to be Successful in a Multicultural Environment"
+  title: "How to be Successful in a Multicultural Environment"
   subtype: Talks
 #  description: Skills Workshop
   speakers: [6]
@@ -77,12 +77,11 @@
 -
   id: 014
   title: "Poster Session and Coffee Break"
-  place: "Hall"
-  service: true
+  description: "Click here to see all the Posters"
+  subtype: Poster Session
+  photo: "/img/posters/Postdoc_Poster_Final.pdf"
 -
   id: 015
   title: "Awards and Closing Ceremony"
   place: "Hall"
-  service: true
-
-  
+  service: true 
