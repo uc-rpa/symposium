@@ -1,20 +1,93 @@
 ---
 layout: post
-title: Don't be a jerk policy
+title: Code of Conduct
 permalink: /cod/
 isStaticPost: true
+image: orange.png
 ---
 
-__This "Don't be a jerk" policy is a shortened, more casual version of the longer Code of Conduct policy. [Read full version](http://meta.wikimedia.org/wiki/Don%27t_be_a_dick).__
+# Code of Conduct
+
+## Summary
+
+We value the involvement of everyone in the community.
+We are committed to creating a friendly and respectful place for learning, teaching, networking, and contributing.
+
+All participants in our events and communications are expected to show respect and courtesy to others.
+
+To make clear what is expected, everyone participating in RPA Postdoc Symposium 2019 activities is required to conform to the Code of Conduct.
+This Code of Conduct applies to all spaces managed by the RPA including, but not limited to, talks, poster sessions, email lists, and social media such as Twitter and Instagram.
+
+If you feel harassed or treated inappropriately at any time, please contact the Board of the RPA at [postdoc@ucr.edu](mailto:postdoc@ucr.edu).
 
 
-GDG Lviv prides itself on being an open, respectful, and inclusive community. That means jerky behavior isn’t allowed at GDG meetings. Because we know that it’s not obvious to everyone, here’s a reminder of the things we don’t allow: jokes or offensive comments about sex/sexuality/race/religion/nationality/body size, showing porn in public, touching people uninvited, or continuing to interact with someone after they’ve asked you to stop. Continuous jerky behavior may result in getting expelled from the meeting or GDG Chapter.
+## Code of Conduct
 
-If someone is bothering you, please tell GDG Organizers immediately and they will take care of it. We want to maintain GDG DevFest’s awesomeness.
+The RPA team is dedicated to providing a welcoming and supportive environment for all people, regardless of background or identity.
+As such, we do not tolerate behavior that is disrespectful to our learners or teachers or that excludes, intimidates, or causes discomfort to others.
+We do not tolerate discrimination or harassment based on characteristics that include, but are not limited to, gender identity and expression, sexual orientation, disability, physical appearance, body size, citizenship, nationality, ethnic or social origin, pregnancy, familial status, veteran status, genetic information, religion or belief (or lack thereof), membership of a national minority, property, age, education, socio-economic status, technical choices, and experience level.
+
+Everyone who participates in RPA Postdoc Symposium 2019 activities is required to conform to this Code of Conduct.
+It applies to all spaces managed by the RPA including, but not limited to, talks, poster sessions, email lists, and social media such as Twitter and Instagram.
+By participating, participants indicate their acceptance of the procedures by which the RPA resolves any Code of Conduct incidents, which may include storage and processing of their personal information.
+
+### Expected behavior
+
+All participants in our events and communications are expected to show respect and courtesy to others.
+All interactions should be professional regardless of platform: either online or in-person.
+
+In order to foster a positive and professional learning environment we encourage the following kinds of behaviors in all RPA Postdoc Symposium 2019 event and platforms:
+
+- Use welcoming and inclusive language
+
+- Be respectful of different viewpoints and experiences
+
+- Gracefully accept constructive criticism
+
+- Focus on what is best for the community
+
+- Show courtesy and respect towards other community members
+
+Note: See the [four social rules](https://www.recurse.com/manual#sub-sec-social-rules) for further recommendations.
+
+### Unacceptable behavior
+
+Examples of unacceptable behavior by participants at any RPA Postdoc Symposium 2019 event/platform include:
+
+- written or verbal comments which have the effect of excluding people on the basis of membership of any specific group
+
+- causing someone to fear for their safety, such as through stalking, following, or intimidation
+
+- violent threats or language directed against another person
+
+- the display of sexual or violent images
+
+- unwelcome sexual attention
+
+- nonconsensual or unwelcome physical contact
+
+- sustained disruption of talks, events or communications
+
+- insults or put downs
+
+- sexist, racist, homophobic, transphobic, ableist, or exclusionary jokes
+
+- excessive swearing
+
+- incitement to violence, suicide, or self-harm
+
+- continuing to initiate interaction (including photography or recording) with someone after being asked to stop
+
+- publication of private communication without consent
+
+If you feel harassed or treated inappropriately at any time, please contact the Board of the RPA at [postdoc@ucr.edu](mailto:postdoc@ucr.edu).
 
 
-######Contacts:
+### Consequences of Unacceptable behavior
 
-- Vitaliy Zasadnyy, +38 063 863 20 62, [vitaliy.zasadnyy@gdg.org.ua](mailto:vitaliy.zasadnyy@gdg.org.ua)
+Participants who are asked to stop any inappropriate behavior are expected to comply immediately.
+This applies to any RPA Postdoc Symposium 2019 event and platforms, either online or in-person.
+If a participant engages in behavior that violates this code of conduct, the organizers may warn the offender or require them to leave the event or platform.
 
-<img class="img-responsive feature-image" src="{{ site.baseurl }}/img/posts/cod.jpg" style="display:none">
+# Source
+This documento is base on the code of conduct written by [Childhood Cancer Data Lab](https://github.com/AlexsLemonade/RNA-Seq-Exercises/blob/master/code-of-conduct.md), which was itself based on the [The Carpentries](https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html#code-of-conduct-detailed-view), adapted from the guidelines by the [Django Project](https://www.djangoproject.com/conduct/enforcement-manual/) and [Ada Initiative](http://geekfeminism.wikia.com/wiki/Conference_anti-harassment/Responding_to_reports) template.
