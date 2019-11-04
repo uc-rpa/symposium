@@ -64,8 +64,8 @@ location: "HUB 302 South"
 typeoutTextValues: '"", "Postdoc Symposium"'
 #typeoutFallback: "Season"
 heroButtons:
- - {link: "https://docs.google.com/forms/d/e/1FAIpQLSfOe5ACmnpw3ser3Nx0gstof-4_G7gwnhCwgG0CNB4ttNWYBw/viewform", text: "Call for Posters"}
- - {link: "https://forms.gle/F9C7xGhVoySp4tz16", text: "Register"}
+ - {link: "https://github.com/uc-rpa/symposium2019/raw/master/pdf/UCR_RPA_PostdocSymposium2019_Booklet.pdf", text: "PostDoc Symposium 2019 - Booklet"}
+ - {link: "https://github.com/uc-rpa/symposium2019/pdf", text: "Agenda"}
 
 # About Block
 aboutTitle: "Postdoc Symposium 2019"
