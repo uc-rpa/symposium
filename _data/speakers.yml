@@ -51,6 +51,8 @@
 #  bio: "bio"
   thumbnailUrl: Seana-Nunez-Grider.jpg
   rockstar: true
+  social: 
+    - {name: "site", link: "https://github.com/uc-rpa/symposium2019/raw/master/pdf/Delegation_Skills_Handout_PostDocSymposium2019.pdf", text: "Delegation Skills Handout"}
 - 
   id: 6
   name: "Dr. Andrea"
