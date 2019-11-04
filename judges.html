@@ -1,0 +1,16 @@
+---
+layout: default
+title: Judges
+permalink: /judges/
+modal: all
+image: red.png
+---
+
+{% include top-section.html %}
+
+{% if site.showSessions %}
+    {% include judges-list.html %}
+{% else %}
+    {% include judges-list-2.html %}
+{% endif %}
+

@@ -1,17 +1,17 @@
-<!-- Begin judges List-->
+<!-- Begin Speakers List-->
 <section id="judges" class="judges">
     <div class="content-wrapper">
         <div class="col-lg-10 col-lg-offset-1">
             <div class="row text-left appear-animation-trigger">
-                {% for judge in site.data.judges %}
+                {% for speaker in site.data.judges %}
                 <div class="effect-wrapper appear-animation col-md-4 col-sm-6 col-xs-12">
                     <div class="lily-effect ribbon-activator">
-                        <div class="lily-head" data-toggle="modal" data-target="#judgeDetail-{{ judge.id }}" style="height:370px">
-                            <figure class="waves-effect waves-block waves-light" style="background-image: url({{ site.baseurl | append: '/img/people/' | append: judge.thumbnailUrl }})">
+                        <div class="lily-head" data-toggle="modal" data-target="#speakerDetail-{{ speaker.id }}" style="height:370px">
+                            <figure class="waves-effect waves-block waves-light" style="background-image: url({{ site.baseurl | append: '/img/people/' | append: speaker.thumbnailUrl }})">
                                 <div class="overlay solid-overlay"></div>
-                                {% if judge.ribbon != null %}
+                                {% if speaker.ribbon != null %}
                                 <ul class="ribbon-wrapper">
-                                    {% for ribbon in judge.ribbon %}
+                                    {% for ribbon in speaker.ribbon %}
                                     <li class="{{ ribbon["abbr"] | downcase }}">
                                         <p class="ribbon abbr">{{ ribbon["abbr"] }}</p>
                                         <p class="ribbon full-title">{{ ribbon["title"] }}</p>
@@ -21,16 +21,16 @@
                                 {% endif %}
                                 {% if site.showSessions %}
 <!--                                <figcaption>
-                                <h2 class="name"><font color=#5141b5><b>{{ judge.name }}</b></font> <span><font color=#5141b5><b>{{ judge.surname }}</b></font></span></h2>
-                                    <p class="position">{{ judge.company }}</p>
+                                <h2 class="name"><font color=#5141b5><b>{{ speaker.name }}</b></font> <span><font color=#5141b5><b>{{ speaker.surname }}</b></font></span></h2>
+                                    <p class="position">{{ speaker.company }}</p>
                                 </figcaption> -->
                                 {% endif %}
                             </figure>
                         </div>
                         <div class="lily-bottom">
                             <ul class="slider">
-                            <p class="name"><font color=#5141b5><b>{{ judge.name }}</b></font> <span><font color=#5141b5><b>{{ judge.surname }}</b></font></span></p>
-                                     <class="position"><font color=#5141b5><b>{{ judge.company }}</b></font>
+                            <p class="name"><font color=#5141b5><b>{{ speaker.name }}</b></font> <span><font color=#5141b5><b>{{ speaker.surname }}</b></font></span></p>
+                                     <class="position"><font color=#5141b5><b>{{ speaker.company }}</b></font>
                                
  <!--                           </ul>
                             <a href="#" class="slider-next-item {% if sessionsNumber < 2 %}hidden{% endif %}">Next</a> -->

@@ -1,0 +1,43 @@
+<!-- Begin judges List 2-->
+<section id="judges">
+    <div class="content-wrapper">
+        <div class="col-lg-10 col-lg-offset-1 appear-animation-trigger">
+            {% for judge in site.data.judges %}
+            <div class="effect-wrapper col-md-4 col-sm-6 col-xs-12 appear-animation">
+                <div class="zoe-effect ribbon-activator" data-toggle="modal" data-target="#judgeDetail-{{ judge.id }}">
+                    <figure class="waves-effect waves-block waves-light" style="background-image: url({{ site.baseurl | append: '/img/people/' | append: judge.thumbnailUrl }})">
+                        <div class="overlay solid-overlay"></div>
+                        {% if judge.ribbon != null %}
+                        <ul class="ribbon-wrapper">
+                            {% for ribbon in judge.ribbon %}
+                            <li class="{{ ribbon["abbr"] | downcase }}">
+                                <p class="ribbon abbr">{{ ribbon["abbr"] }}</p>
+                                <p class="ribbon full-title">{{ ribbon["title"] }}</p>
+                            </li>
+                            {% endfor %}
+                        </ul>
+                        {% endif %}
+                        <figcaption>
+                            <div class="col-md-8 col-xs-8 text-left">
+                                <h2 class="name">{{ judge.name }} <span>{{ judge.surname }}</span></h2>
+                                <div class="clearfix"></div>
+                                <span class="position">{{ judge.company }}</span>
+                            </div>
+                            {% for social in judge.social %}
+                            <a href="{{ social.link }}" target="_blank">
+                                <svg class="icon icon-{{ social.name }}" viewBox="0 0 30 32">
+                                    <use xlink:href="{{ site.baseurl }}/img/sprites/sprites.svg#icon-{{ social.name }}"></use>
+                                </svg>
+                            </a>
+                            {% endfor %}
+                        </figcaption>
+                        <p class="bio">{{ judge.bio | strip_html }}</p>
+                    </figure>
+                </div>
+            </div>
+            {% endfor %}
+        </div>
+        <a href="{{ site.c4pUrl }}" class="bottom-section-link btn btn-primary waves-effect waves-button waves-light waves-float" target="_blank">Call for Posters</a>         
+    </div>
+</section>
+<!-- End judges List 2 -->
