@@ -66,7 +66,7 @@ typeoutTextValues: '"", "Postdoc Symposium"'
 #typeoutFallback: "Season"
 heroButtons:
  - {link: "pdf/UCR_RPA_PostdocSymposium2019_Booklet.pdf", text: "PostDoc Symposium 2019 - Booklet"}
- - {link: "pdf/Postdoc%20Symposium2019_Agenda.pdf", text: "Agenda"}
+ - {link: "https://photos.app.goo.gl/vwsAAdu5MjXhMr249", text: "Symposium Photos"}
 
 # About Block
 aboutTitle: "Postdoc Symposium 2019"
